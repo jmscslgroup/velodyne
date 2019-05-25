@@ -25,7 +25,7 @@
     <arg name="device_ip" value="$(arg device_ip)"/>
     <arg name="frame_id" value="$(arg frame_id)"/>
     <arg name="manager" value="$(arg manager)" />
-    <arg name="model" value="32E"/>
+    <arg name="model" value="64E"/>
     <arg name="pcap" value="$(arg pcap)"/>
     <arg name="port" value="$(arg port)"/>
     <arg name="read_fast" value="$(arg read_fast)"/>
